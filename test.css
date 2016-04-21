@@ -1,0 +1,31 @@
+.con {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.jumbotron1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: white;
+  
+}
+
+.demo-card-wide.mdl-card {
+  width: 512px;
+    padding-right: 15px;
+  padding-left: 15px;
+    margin-right: auto;
+  margin-left: auto;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #428bca;
+  height: 176px;
+  background:url(a11.jpg) center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
